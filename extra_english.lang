@@ -1,0 +1,23 @@
+<LANGUAGE>
+  <RESOURCES>
+  </RESOURCES>
+ 
+ <CATEGORY Name="CustomStoryMain">
+    <Entry Name="Description">*MapDescription*</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="Inventory">
+    <Entry Name="ItemName_*KeySubName*">*YourKeyName*</Entry>
+    <Entry Name="ItemDesc_*KeySubName*">*KeyDescription*</Entry>
+     </CATEGORY>
+
+	 	 <CATEGORY Name="Journal">
+	 <Entry Name="Note_*SubName1*_Name">*NameOfNote*</Entry>
+     <Entry Name="Note_*SubName1*_Text">*NoteContents*</Entry>
+</CATEGORY>
+
+<CATEGORY Name="Message2">
+		<Entry Name ="*MessageScriptName*">*Your Message*</Entry>
+	</CATEGORY>
+	
+</LANGUAGE>	 

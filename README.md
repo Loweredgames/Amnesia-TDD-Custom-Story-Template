@@ -1,2 +1,2 @@
-# Amnesia TDD Custom Story Template
+# Amnesia TDD - Custom Story Template
 

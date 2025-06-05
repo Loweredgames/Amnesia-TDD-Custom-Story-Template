@@ -1,0 +1,15 @@
+Buttons with new shortcuts specify them in their hover hint boxes.
+
+---------------------------------------------
+Level and Model Editors:
+
+Grid preset 1:     Shift+Q
+Grid preset 2:     Shift+W
+Grid preset 3:     Shift+E
+
+Toggle grid snapping: R
+Lock grid tracking:   T
+
+---------------------------------------------
+Material Editor:
+Escape or Alt+F4 to exit
