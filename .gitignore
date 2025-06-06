@@ -1,0 +1,21 @@
+# Escludi file generati dal motore HPL
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Escludi cartelle di build e compilazione
+Build/
+CompiledScripts/
+AutoSave/
+
+# Escludi file di configurazione locali
+*.cfg
+*.ini
+
+# Escludi risorse temporanee
+Thumbs.db
+.DS_Store
+
+# Escludi file di sistema
+desktop.ini
