@@ -10,7 +10,6 @@ CompiledScripts/
 AutoSave/
 
 # Escludi file di configurazione locali
-*.cfg
 *.ini
 
 # Escludi risorse temporanee
